@@ -1,0 +1,65 @@
+{
+  "project_info": {
+    "project_id": "shoppinglistplusplus-c2e04",
+    "project_number": "328463375545",
+    "name": "ShoppingListPlusPlus"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328463375545:android:10ad2120d7004c4b",
+        "client_id": "android:com.udacity.firebase.shoppinglistplusplus",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.udacity.firebase.shoppinglistplusplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328463375545-2l2bigj1h9jckgmuqohnpk6bme747tgf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.udacity.firebase.shoppinglistplusplus",
+            "certificate_hash": "D0DDF531D3D555EE893737F0B069CEA4A2A8A4B0"
+          }
+        },
+        {
+          "client_id": "328463375545-qg3k98mj8ch20gmh12qsvpolfd6mtcbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-74171773-1"
+          }
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328463375545-qg3k98mj8ch20gmh12qsvpolfd6mtcbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 2,
+          "test_banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
+          "test_interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712"
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
